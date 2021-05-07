@@ -21,3 +21,5 @@
 ![](https://user-images.githubusercontent.com/31509619/117433286-e98bba80-af5d-11eb-9dd6-1706bea34ef3.png)
 
 ![](https://user-images.githubusercontent.com/31509619/117433281-e85a8d80-af5d-11eb-85e7-4d9fd99fdaca.png)
+
+#### 使用2019.4.0版本unity导入package，配合visual studio 2019即可完整编辑整个项目
